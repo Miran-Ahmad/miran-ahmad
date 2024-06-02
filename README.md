@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br> Personal Projects<br><br>👯 I’m looking to collaborate on:<br>Full Stack Projects<br><br>🌱 I’m currently learning:<br>ReactJS<br><br>💬 Ask me about:<br>Coding, Web Development, Cyber Security
+🔭 I’m currently working on:<br> Personal Projects<br><br>👯 I’m looking to collaborate on:<br>Full Stack Projects<br><br>🌱 I’m currently learning:<br>Backend Development with NodeJs<br><br>💬 Ask me about:<br>Coding, Web Development, Cyber Security
 
 
 ## 🌐 Socials:
